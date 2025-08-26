@@ -17,27 +17,37 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>310</y>
+      <x>330</x>
+      <y>280</y>
       <width>80</width>
       <height>23</height>
      </rect>
     </property>
     <property name="text">
-     <string>nham</string>
+     <string>OK</string>
     </property>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>290</x>
-      <y>230</y>
-      <width>201</width>
+      <x>330</x>
+      <y>150</y>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
     <property name="text">
-     <string>TEST</string>
+     <string>Nhap Noi Dung</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>200</y>
+      <width>301</width>
+      <height>70</height>
+     </rect>
     </property>
    </widget>
   </widget>
